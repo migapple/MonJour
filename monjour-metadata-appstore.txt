@@ -1,0 +1,129 @@
+MON JOUR - FICHE APP STORE CONNECT
+==================================
+
+Plateforme : watchOS (app Watch autonome)
+Bundle ID : com.michel.garlandat.monjour.watchkitapp
+Catégorie principale : Jeux > Mots
+Catégorie secondaire : Style de vie
+Âge : 4+
+Copyright : 2026 Michel Garlandat
+URL d'assistance : https://migapple.github.io
+Confidentialité (App Privacy) : Data Not Collected (aucune donnée collectée, tout est stocké sur la montre)
+
+
+------------------------------------------------------------
+FRANÇAIS (France)
+------------------------------------------------------------
+
+NOM (30 max)
+Mon Jour Mot Mystère
+
+SOUS-TITRE (30 max)
+Jeu de mots et dicton du jour
+
+MOTS-CLÉS (100 max, séparés par des virgules)
+mot,mystere,jeu,mots,lettres,puzzle,quotidien,dicton,proverbe,couronne,serie,defi,vocabulaire,dictee
+
+TEXTE PROMOTIONNEL (170 max)
+Chaque jour, un nouveau mot de 5 lettres à trouver en 6 essais, joué à la Digital Crown. Gardez votre série et retrouvez le dicton du jour sur votre cadran.
+
+DESCRIPTION
+Mon Jour est votre petit rendez-vous quotidien au poignet : un mot mystère à deviner, un dicton à découvrir et un horoscope pour sourire.
+
+LE MOT MYSTÈRE
+Trouvez le mot du jour de 5 lettres en 6 essais maximum. Choisissez chaque lettre en tournant la Digital Crown, ou dictez directement votre mot à la voix, puis validez. Les couleurs vous guident : vert pour une lettre bien placée, or pour une lettre présente ailleurs dans le mot, gris pour une lettre absente. Les lettres déjà trouvées se replacent automatiquement à la ligne suivante.
+- Saisie à la Digital Crown, à la voix (dites le mot ou épelez-le) ou en écrivant au doigt
+- Un nouveau mot chaque jour à minuit, le même pour tous
+- Plus de 5 000 mots acceptés en français et plus de 4 500 en anglais
+- Parties libres illimitées une fois le puzzle du jour terminé
+
+LE DICTON DU JOUR
+Un dicton ou proverbe populaire chaque jour, avec les dictons traditionnels des saints du calendrier.
+
+L'HOROSCOPE
+Un court horoscope pour votre signe, avec ses tendances amour, travail et énergie, et un conseil du jour. Pour le plaisir uniquement.
+
+VOTRE SÉRIE
+Complétez les trois rubriques chaque jour pour faire grandir votre série. Une barre de progression vous montre où vous en êtes.
+
+SUR VOTRE CADRAN
+Ajoutez les complications Mon Jour : votre série et votre progression, ou le dicton du jour directement sur le cadran.
+
+- Application Apple Watch autonome, aucun iPhone nécessaire
+- Bilingue français et anglais
+- Fonctionne hors ligne
+- Aucune publicité, aucune donnée collectée
+
+
+------------------------------------------------------------
+ENGLISH (U.S. / U.K.)
+------------------------------------------------------------
+
+NAME (30 max)
+My Day Word Puzzle
+
+SUBTITLE (30 max)
+Daily word game and saying
+
+KEYWORDS (100 max, comma separated)
+word,mystery,game,words,letters,puzzle,daily,saying,proverb,crown,streak,challenge,vocabulary,voice
+
+PROMOTIONAL TEXT (170 max)
+Every day, a new 5-letter word to find in 6 tries, played with the Digital Crown. Keep your streak going and see the saying of the day on your watch face.
+
+DESCRIPTION
+My Day is your little daily ritual on the wrist: a mystery word to guess, a saying to discover and a horoscope for a smile.
+
+THE MYSTERY WORD
+Find the 5-letter word of the day in 6 tries or fewer. Pick each letter by turning the Digital Crown, or simply say your word out loud, then submit. Colors guide you: green for a letter in the right spot, gold for a letter elsewhere in the word, grey for a letter not in the word. Letters you have already found are placed again automatically on the next row.
+- Enter letters with the Digital Crown, by voice (say or spell the word) or by writing with your finger
+- A new word every day at midnight, the same for everyone
+- Over 4,500 accepted words in English and over 5,000 in French
+- Unlimited free play once the daily puzzle is done
+
+THE SAYING OF THE DAY
+A popular saying or proverb every day, including traditional calendar sayings.
+
+THE HOROSCOPE
+A short horoscope for your sign, with love, work and energy trends and a tip of the day. For entertainment only.
+
+YOUR STREAK
+Complete all three sections each day to grow your streak. A progress bar shows how far along you are.
+
+ON YOUR WATCH FACE
+Add the My Day complications: your streak and progress, or the saying of the day right on your watch face.
+
+- Standalone Apple Watch app, no iPhone required
+- Bilingual English and French
+- Works offline
+- No ads, no data collected
+
+
+------------------------------------------------------------
+CAPTURES D'ÉCRAN (ordre conseillé, Apple Watch)
+------------------------------------------------------------
+1. Mot Mystère en cours (grille avec lettres vertes et or)
+2. Écran Bravo (série + mot trouvé)
+3. Accueil (3 rubriques + progression)
+4. Cadran avec les complications Mon Jour
+5. Dicton du jour
+6. Horoscope (page en-tête)
+Faire la même série en anglais pour la fiche EN.
+
+
+------------------------------------------------------------
+APP REVIEW INFORMATION - NOTES (en anglais)
+------------------------------------------------------------
+My Day (Mon Jour) is a standalone Apple Watch app built around a daily word game.
+
+Following previous review feedback (guidelines 4.2 and 4.3), I consolidated content that I had submitted as separate small apps (Dicton du Jour, Horoscope du Jour) into this single app. Those separate submissions have been withdrawn and will not be resubmitted.
+
+How to test:
+- Open Mystery Word: turn the Digital Crown to pick a letter, tap the arrow to move to the next box, tap Submit when the 5 letters are filled. Accepted words are checked against an embedded dictionary (try PLUIE in French or LIGHT in English).
+- Voice entry: tap the microphone button, then the text field, and dictate a word ("light") or spell it ("L I G H T"). This uses the standard watchOS text input (dictation, Scribble or keyboard); the app does not record or store audio. On first use, watchOS may ask you to pick the microphone on the input screen.
+- After the daily puzzle ends (win or lose), tap New puzzle to play unlimited free games.
+- Saying and Horoscope are reached from the home screen; the horoscope is labelled "for entertainment only".
+- Complications: edit a watch face and add the My Day complications (streak and progress, saying of the day).
+- The language toggle (flag) is on the home screen.
+
+No account, no network access and no data collection. All content is embedded in the app.
