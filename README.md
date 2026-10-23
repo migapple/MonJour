@@ -30,14 +30,6 @@ Widget/   → cible extension widget
    `group.com.michel.garlandat.monjour`. C'est ce qui permet à la complication de lire la série.
 6. Build sur la montre ou le simulateur, puis ajouter la complication depuis l'édition du cadran.
 
-## À remplacer avant soumission
-
-- `DailyContent.dictonsFR/EN` : coller les tableaux de Dicton du Jour (idéalement 365 entrées).
-- `horoscopeFR/EN` : textes de Horoscope du Jour. Les 12 phrases actuelles sont des exemples.
-- `answersFR/EN` : liste longue de mots de 5 lettres (sans accents, majuscules).
-- `allowedFR/EN` : mots de 5 lettres extraits des dictionnaires de Lettres Rami
-  (accents retirés), puis passer `strictDictionary = true`.
-
 ## Comportement
 
 - Le contenu change à minuit (index du jour depuis le 1er janvier 2026, puzzle n° = index + 1).
